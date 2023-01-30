@@ -5148,6 +5148,19 @@ textarea.form-control-lg {
   border-left-width: 1px;
 }
 
+#linkedin, 
+#github
+ { 
+  height: 100px;
+  margin-top: -15px;
+
+}
+
+#wellfound { 
+  height: 80px;
+  margin-top: -15px;
+}
+
 @media (min-width: 576px) {
   .list-group-horizontal-sm {
     flex-direction: row;
