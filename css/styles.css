@@ -5148,8 +5148,31 @@ textarea.form-control-lg {
   border-left-width: 1px;
 }
 
+#rowlow { 
+  display: flex;
+  flex-direction: row;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+#links { 
+  text-decoration: none;
+  width: 25%;
+}
+
+#trying { 
+  width: 100%;
+}
+
+links:visited { 
+  text-decoration: none;
+}
+
 #linkedin, 
-#github { 
+#github,
+#resume { 
   height: 100px;
   margin-top: -15px;
 }
@@ -5157,7 +5180,10 @@ textarea.form-control-lg {
 #wellfound { 
   height: 80px;
   margin-top: -15px;
+  
 }
+
+
 
 #quokka, 
 #stopwatch { 
