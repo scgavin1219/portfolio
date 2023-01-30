@@ -5149,16 +5149,19 @@ textarea.form-control-lg {
 }
 
 #linkedin, 
-#github
- { 
+#github { 
   height: 100px;
   margin-top: -15px;
-
 }
 
 #wellfound { 
   height: 80px;
   margin-top: -15px;
+}
+
+#quokka, 
+#stopwatch { 
+  height: 399px;
 }
 
 @media (min-width: 576px) {
@@ -11489,7 +11492,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/website1.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
