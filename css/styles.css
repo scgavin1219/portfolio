@@ -5170,6 +5170,11 @@ textarea.form-control-lg {
 
 .tech-container { 
   display: flex;
+  flex-wrap: wrap;
+}
+
+.tech-holder { 
+  width: 200px;
 }
 
 @media (min-width: 576px) {
