@@ -5164,6 +5164,14 @@ textarea.form-control-lg {
   height: 399px;
 }
 
+#tech-image { 
+  height: 100px;
+}
+
+.tech-container { 
+  display: flex;
+}
+
 @media (min-width: 576px) {
   .list-group-horizontal-sm {
     flex-direction: row;
