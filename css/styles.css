@@ -7432,6 +7432,7 @@ links:visited {
 }
 
 .mb-1 {
+  color: white;
   margin-bottom: 0.25rem !important;
 }
 
@@ -7448,6 +7449,7 @@ links:visited {
 }
 
 .mb-5 {
+  color: white;
   margin-bottom: 3rem !important;
 }
 
