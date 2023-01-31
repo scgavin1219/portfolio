@@ -6410,6 +6410,15 @@ links:visited {
   margin-bottom: -0.5rem;
 }
 
+#portfolio-title { 
+  font-size: 44px;
+}
+
+#portfolio-subhead { 
+  color: #ecb807;
+  font-size: 32px;
+}
+
 .offcanvas-title {
   margin-bottom: 0;
   line-height: 1.5;
