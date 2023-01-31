@@ -5157,9 +5157,26 @@ textarea.form-control-lg {
   
 }
 
+.about-me { 
+  display: flex;
+  margin: 150px;
+  margin-top: -200px;
+  margin-bottom: -200px;
+}
+
+.about-left, 
+.about-right { 
+  width: 50%;
+  margin: 100px;
+}
+
 #links { 
   text-decoration: none;
   width: 25%;
+}
+
+#color { 
+  color: whitesmoke;
 }
 
 #trying { 
